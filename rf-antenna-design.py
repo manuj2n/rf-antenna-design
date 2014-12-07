@@ -24,7 +24,8 @@
 
 import sys, os 
 import math 
-import decimal #no se usa 
+import decimal #no se usa
+import pygtk
 import gtk
 
 
